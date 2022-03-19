@@ -1,17 +1,30 @@
 h1{
-    color:mediumslateblue;
+    color: rgb(134, 23, 134);
 }
 img{
     width: 400px;
 }
 #thirdDiv{
+    margin: 0 auto;
     height:500px;
     width:600px;
     background-color: gray;
     padding: 50px;
     border: 5px solid black;
+    color :white;
+}
+.divClass{
+    text-align: center;
+    color: black;
 }
 #spanId{
    font-size: 18px;
-   margin: 50px; 
+   margin: 50px;
+}
+
+body{
+    background-image: url('https://media.istockphoto.com/photos/gray-abstract-minimal-motion-backgrounds-loopable-elements-4k-picture-id1174989482?b=1&k=20&m=1174989482&s=170667a&w=0&h=ld7ukW9KTzUlJLc6c37C2xs5ESYP2wLyjxsEVCumn2s=');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:
 }
